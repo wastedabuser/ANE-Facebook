@@ -24,7 +24,6 @@ import android.view.View;
 import com.facebook.android.R;
 
 import com.freshplanet.ane.AirFacebook.AirFacebookExtension;
-import com.freshplanet.ane.AirFacebook.AirFacebookExtension;
 
 /**
  * This Activity is a necessary part of the overall Facebook login process
